@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Li
 - 👀 I’m interested in data ethics, specifically user privacy and misinformation
-- 🌱 I’m currently learning the fundamentals of computer science
+- 🌱 I’m currently learning the fundamentals of computer science and studying Business and Global Affairs at Georgetown University.
 - 💞️ I’m looking to collaborate on any opportunities regarding the intersections between tech and social impact
 - 📫 How to reach me: https://www.linkedin.com/in/samuelhli39/
 
