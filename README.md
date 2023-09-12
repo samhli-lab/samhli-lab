@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samhli-lab
+- 👋 Hi, I’m Samuel Li
 - 👀 I’m interested in data ethics, specifically user privacy and misinformation
 - 🌱 I’m currently learning the fundamentals of computer science
 - 💞️ I’m looking to collaborate on any opportunities regarding the intersections between tech and social impact
